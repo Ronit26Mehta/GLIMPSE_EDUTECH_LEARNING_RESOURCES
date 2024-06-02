@@ -1,0 +1,33 @@
+Summary Report
+
+====================
+
+
+Status Code Count:
+
+404: 129
+
+500: 127
+
+403: 122
+
+200: 122
+
+
+Logs by Date:
+
+2024-05-29: 68 log entries
+
+2024-05-28: 76 log entries
+
+2024-06-02: 65 log entries
+
+2024-05-31: 79 log entries
+
+2024-05-27: 64 log entries
+
+2024-06-01: 74 log entries
+
+2024-05-30: 63 log entries
+
+2024-05-26: 11 log entries
